@@ -28,6 +28,14 @@ const USER_CONFIG = {
   publications: [
     {
       year:     2026,
+      title:    "MemCatalyst: Amplifying Data Auditing on Vision-Language Models via Data Poisoning",
+      authors:  "Xukun Luan, Jinyan Liu, Yuhui Gong, Yuanguo Bi, Bing Hu, Xuesong Li, Di Wang",
+      venue:    "arXiv",
+      links:    { pdf: "https://arxiv.org/abs/2608.17722", code: "https://github.com/Zili1000/MemCatalyst" },
+      abstract: "",
+    },
+    {
+      year:     2026,
       title:    "Code-Poisoning Property Inference Attacks",
       authors:  "Xukun Luan, Yuhui Gong, Gang Zhang, Zixuan Huang, Yuanguo Bi, Xuesong Li, Jinyan Liu",
       venue:    "arXiv",
