@@ -28,6 +28,14 @@ const USER_CONFIG = {
   publications: [
     {
       year:     2026,
+      title:    "ForgetMimic: Motion Unlearning for Reinforcement Learning Humanoid Control",
+      authors:  "Xukun Luan, Zhongxiang Lei, Chen Gong, Shaowei Li, Yuanguo Bi, Jinyan Liu",
+      venue:    "arXiv",
+      links:    { pdf: "https://arxiv.org/abs/2609.28378", code: "https://github.com/Zili1000/ForgetMimic" },
+      abstract: "",
+    },
+    {
+      year:     2026,
       title:    "MemCatalyst: Amplifying Data Auditing on Vision-Language Models via Data Poisoning",
       authors:  "Xukun Luan, Jinyan Liu, Yuhui Gong, Yuanguo Bi, Bing Hu, Xuesong Li, Di Wang",
       venue:    "arXiv",
