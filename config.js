@@ -6,8 +6,8 @@
 const USER_CONFIG = {
   name:       "Xukun Luan",
   initials:   "",
-  role:       "PhD",
-  // role:       "PhD Candidate",
+  // role:       "PhD",
+  role:       "PhD Candidate",
   university: "Beijing Institute of Technology",
   email:      "xukunluan[at]bit[dot]edu[dot]cn",
   bio:        "My research primarily focuses on inference attacks🕵️, poisoning attacks😈, differential privacy🔐, embodied intelligence🦾, and reinforcement learning🕹️. I welcome discussions, academic exchanges, and potential collaborations. Feel free to connect if you share similar research interests!",
